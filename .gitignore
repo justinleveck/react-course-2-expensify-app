@@ -7,6 +7,12 @@
 !.vscode/extensions.json
 .DS_Store
 
+# Generated
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+
 # Dependency directories
 node_modules/
 
