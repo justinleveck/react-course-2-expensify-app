@@ -1,17 +1,9 @@
 # General
 .vscode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 .DS_Store
 
 # Generated
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
 
 # Dependency directories
 node_modules/
