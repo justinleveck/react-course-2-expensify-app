@@ -1,6 +1,8 @@
 # General
 .vscode
 .DS_Store
+.env.test
+.env.development
 
 # Generated
 public/dist/
